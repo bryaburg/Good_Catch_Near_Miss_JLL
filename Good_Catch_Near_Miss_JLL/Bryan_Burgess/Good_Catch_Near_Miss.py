@@ -11,6 +11,8 @@ import calendar
 import keyboard
 import random
 
+Name = input("Your Name ", )
+
 #Good Catch near miss options
 Near_miss = [
 (" Slipped on stairway.", "Could have fallen and broke ankle", "Continued to watch my steps and have 3 points of contact"), 
@@ -49,7 +51,6 @@ keyboard.write("DSM5")
 keyboard.press_and_release("enter")
 
 #Find Submitter Name box and put first and last name.
-Name = "Burgess, Bryan"
 First_Last_Name = driver.find_element(By.XPATH,'//*[@id="text_box_SUBMITTER NAME (OPTIONAL)"]').send_keys(Name)
 
 #DISCOVERY TYPE
