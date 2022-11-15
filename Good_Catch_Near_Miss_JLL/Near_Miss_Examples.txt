@@ -1,0 +1,4 @@
+(" Slipped on stairway.", "Could have fallen and broke ankle", "Continued to watch my steps and have 3 points of contact"), 
+("Found some straps on the floor","Could have tripped over straps", "Picked up straps"),
+("Cardboard fallen off decant line", "Could have tripped over fallen clutter", "Put box back on line"),
+(" Pallet not in 5s area", "Could have tripped over pallet", "Got a associate to move it correctly")
